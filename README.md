@@ -1,1 +1,1 @@
-# Cougar AI Project: Simple Chatbot with Streamlit and Ollama
+# CAI Project: Simple Chatbot with Streamlit and Ollama
