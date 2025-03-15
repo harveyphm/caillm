@@ -3,6 +3,8 @@
 
 This project features a Streamlit-based chatbot powered by Ollama's models. The chatbot is designed to interact with users in various tones, depending on the selected personality. It offers a flexible user interface to adjust the chatbot's creativity (temperature) and the tone of the responses. 
 
+![Demo](/img/demo.png)
+
 ## Features
 - **Interactive Chatbot**: Allows real-time communication with an AI assistant.
 - **Personality Selection**: Choose from five different personalities: Friendly, Professional, Sarcastic, Encouraging, or Direct.
