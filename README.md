@@ -1,7 +1,7 @@
 
 # Cougar AI Chatbot
 
-Welcome to the Cougar AI Fall 2024 Project!
+Welcome to the Cougar AI Spring 2024 Project!
 
 This project features a Streamlit-based chatbot powered by Ollama's models. The chatbot is designed to interact with users in various tones, depending on the selected personality. It offers a flexible user interface to adjust the chatbot's creativity (temperature) and the tone of the responses. 
 
